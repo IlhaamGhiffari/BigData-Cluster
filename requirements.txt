@@ -8,7 +8,7 @@ numpy==1.25.0
 scikit-learn==1.3.0
 
 # Natural Language Processing (for TF-IDF, Word2Vec)
-nltk==3.8.1
+nltk==3.9
 
 # Data Visualization
 matplotlib==3.7.2
